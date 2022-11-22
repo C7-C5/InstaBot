@@ -388,7 +388,7 @@ class InstagramBot():
 
 my_bot = InstagramBot(username, password)
 my_bot.login()
-my_bot.send_direct_message(direct_users_list, 'Hey! I am your husband! Show tits! (.)(.)')
+my_bot.send_direct_message(direct_users_list, 'Message')
 
 
 
